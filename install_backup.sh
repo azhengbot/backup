@@ -10,7 +10,7 @@ install_to_crontab() {
         echo "自动添加失败，请尝试手动添加: "
         # echo SHELL=$SHELL > crontab_conf
         # echo PATH=$PATH >> crontab_conf
-        echo "20 15 * * * $script > /tmp/dotfile_Backup.log && osascript -e 'display notification \"$WD/backup\" with title \"dotfile备份成功, 已上传至 GitHub\" '" >> crontab_conf
+        echo "22 15 * * * $script > /tmp/dotfile_Backup.log && osascript -e 'display notification \"$WD/backup\" with title \"dotfile备份成功, 已上传至 GitHub\" '" >> crontab_conf
         echo "运行 \$ crontab -e"
 
         echo "插入以下内容: "
@@ -21,7 +21,7 @@ install_to_crontab() {
         crontab -l > crontab_conf
         # echo SHELL=$SHELL >> crontab_conf
         # echo PATH=$PATH >> crontab_conf
-        echo "20 15 * * * $script > /tmp/dotfile_Backup.log && osascript -e 'display notification \"$WD/backup\" with title \"dotfile备份成功, 已上传至 GitHub\" '" >> crontab_conf
+        echo "25 15 * * * $script && osascript -e 'display notification \"$WD/backup\" with title \"dotfile备份成功, 已上传至 GitHub\" '" >> crontab_conf
         crontab crontab_conf && rm -f crontab_conf
 
         echo "🎉 自动化备份dotfile安装完成"
