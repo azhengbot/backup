@@ -1,7 +1,7 @@
 # 全局变量，填入项目地址
 # HEAD
 DIR=$HOME/Desktop/dotfile
-# export git=/usr/bin/git
+export git=/usr/bin/git
 
 # > Backup Dotfiles
 backup_dotfiles(){

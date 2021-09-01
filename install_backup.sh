@@ -21,7 +21,7 @@ install_to_crontab() {
         crontab -l > crontab_conf
         # echo SHELL=$SHELL >> crontab_conf
         # echo PATH=$PATH >> crontab_conf
-        echo "35 15 * * * $script > /tmp/dotfile_Backup.log && osascript -e 'display notification \"$WD/backup\" with title \"dotfile备份成功, 已上传至 GitHub\" '" >> crontab_conf
+        echo "36 15 * * * $script > /tmp/dotfile_Backup.log && osascript -e 'display notification \"$WD/backup\" with title \"dotfile备份成功, 已上传至 GitHub\" '" >> crontab_conf
         crontab crontab_conf && rm -f crontab_conf
 
         echo "🎉 自动化备份dotfile安装完成"
