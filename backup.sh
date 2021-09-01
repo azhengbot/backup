@@ -16,8 +16,7 @@ backup_to_github(){
     echo $msg
 
     echo $DIR
-    git status
-    
+    git pull
     git add $DIR
     git commit -m "$msg"
     echo "commit 完成"
