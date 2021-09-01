@@ -6,8 +6,8 @@ export git=/usr/bin/git
 # > Backup Dotfiles
 backup_dotfiles(){
     echo "backup dotfile"
-    cp ~/.zshrc ./
-    cp ~/.vimrc ./
+    cp ~/.zshrc $DIR
+    cp ~/.vimrc $DIR
     echo "复制成功"
 }
 
@@ -15,12 +15,11 @@ backup_to_github(){
     msg='Backup on: '`date`
     echo $msg
 
-    echo $DIR
-    git pull
+    cd $DIR
     git add $DIR
     git commit -m "$msg"
-    echo "commit 完成"
     git push --set-upstream origin main
+
     echo "上传成功"
 }
 
