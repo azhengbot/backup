@@ -1,11 +1,11 @@
 # 全局变量，填入项目地址
 # HEAD
-DIR=$HOME/Desktop/dotfile
+DIR=$HOME/Desktop/backup
 export git=/usr/bin/git
 
 # > Backup Dotfiles
 backup_dotfiles(){
-    echo "backup dotfile"
+    echo "backup"
     cp ~/.zshrc $DIR/dotfile
     cp ~/.vimrc $DIR/dotfile
     echo "复制成功"
