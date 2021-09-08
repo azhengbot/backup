@@ -71,3 +71,13 @@ export PATH=$PATH:$M2_HOME/bin
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/admin/.sdkman"
 [[ -s "/Users/admin/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/admin/.sdkman/bin/sdkman-init.sh"
+
+HADOOP_HOME="/usr/local/Cellar/hadoop/3.3.1"
+PATH=$HADOOP_HOME/sbin:$PATH:                                                                                                              
+export HADOOP_OPTS="$HADOOP_OPTS -Djava.library.path=$HADOOP_HOME/lib/native"
+
+alias start-hadoop='$HADOOP_HOME/sbin/start-all.sh'
+alias stop-hadoop='$HADOOP_HOME/sbin/stop-all.sh'
+
+HIVE_HOME="/usr/local/Cellar/hive/3.1.2_3"
+PATH=$HIVE_HOME/binL$PATH:
