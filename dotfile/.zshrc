@@ -72,12 +72,9 @@ export PATH=$PATH:$M2_HOME/bin
 export SDKMAN_DIR="/Users/admin/.sdkman"
 [[ -s "/Users/admin/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/admin/.sdkman/bin/sdkman-init.sh"
 
-HADOOP_HOME="/usr/local/Cellar/hadoop/3.3.1"
-PATH=$HADOOP_HOME/sbin:$PATH:                                                                                                              
-export HADOOP_OPTS="$HADOOP_OPTS -Djava.library.path=$HADOOP_HOME/lib/native"
 
-alias start-hadoop='$HADOOP_HOME/sbin/start-all.sh'
-alias stop-hadoop='$HADOOP_HOME/sbin/stop-all.sh'
-
-HIVE_HOME="/usr/local/Cellar/hive/3.1.2_3"
-PATH=$HIVE_HOME/binL$PATH:
+export JAVA_HOME=/Users/admin/Library/Java/JavaVirtualMachines/sapmachine-11.0.12/Contents/Home
+export CLASSPAHT=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+export HADOOP_HOME=/usr/local/Cellar/hadoop/3.3.1/libexec
+export HADOOP_COMMON_HOME=$HADOOP_HOME
+export PATH=$JAVA_HOME/bin:$PATH:$HADOOP_HOME/bin:/usr/local/Cellar/scala/bin
