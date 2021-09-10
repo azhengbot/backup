@@ -39,6 +39,8 @@ zinit snippet OMZ::plugins/colored-man-pages/colored-man-pages.plugin.zsh
 zinit snippet OMZ::plugins/sudo/sudo.plugin.zsh
 zinit snippet OMZ::plugins/pyenv/pyenv.plugin.zsh
 
+zinit snippet https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/key-bindings.zsh
+
 zinit ice svn
 # zinit snippet OMZ::plugins/extract
 
