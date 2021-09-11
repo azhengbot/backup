@@ -36,6 +36,8 @@ Plug '~/my-prototype-plugin'
 
 Plug 'mileszs/ack.vim'
 
+Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
+
 " Initialize plugin system
 call plug#end()
 
