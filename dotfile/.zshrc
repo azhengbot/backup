@@ -68,7 +68,7 @@ export M2_HOME=$HOME/.m2/apache-maven-3.6.0
 export PATH=$PATH:$M2_HOME/bin
 
 # hadoop
-export JAVA_HOME=/Users/admin/Library/Java/JavaVirtualMachines/sapmachine-11.0.12/Contents/Home
+# export JAVA_HOME=/Users/admin/Library/Java/JavaVirtualMachines/sapmachine-11.0.12/Contents/Home
 export CLASSPAHT=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 export HADOOP_HOME=/usr/local/Cellar/hadoop/3.3.1/libexec
 export HADOOP_COMMON_HOME=$HADOOP_HOME
