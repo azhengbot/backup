@@ -2,12 +2,18 @@
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
 
-export PYENV_ROOT="$HOME/.pyenv"
+export PYENV_ROOR="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
-export PATH="$PYENV_ROOT/shims:$PATH"
-if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
-if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
 
+# if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
+# if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+
+# export LDFLAGS="-L/usr/local/opt/zlib/lib -L/usr/local/opt/bzip2/lib"
+# export CPPFLAGS="-I/usr/local/opt/zlib/include -I/usr/local/opt/bzip2/include"
+export LDFLAGS="-L/usr/local/opt/bzip2/lib"
+export CPPFLAGS="-I/usr/local/opt/bzip2/include"
 source ~/.zinit/bin/zinit.zsh
 
 # p10k
@@ -73,3 +79,4 @@ export CLASSPAHT=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 export HADOOP_HOME=/usr/local/Cellar/hadoop/3.3.1/libexec
 export HADOOP_COMMON_HOME=$HADOOP_HOME
 export PATH=$JAVA_HOME/bin:$PATH:$HADOOP_HOME/bin:/usr/local/Cellar/scala/bin
+export PATH="/usr/local/opt/bzip2/bin:$PATH"
