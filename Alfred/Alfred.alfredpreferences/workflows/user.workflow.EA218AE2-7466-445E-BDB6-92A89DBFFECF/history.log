@@ -137,3 +137,5 @@
 {"title": "Hibernate", "subtitle": "Hibernate", "arg": "2.2.5$%Hibernate$%Hibernate$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "reconciler", "subtitle": "调解人", "arg": "2.2.5$%reconciler$%调解人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "剩余", "subtitle": "The remaining", "arg": "2.2.5$%剩余$%The remaining$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "SEVERE", "subtitle": "严重的", "arg": "2.2.5$%SEVERE$%严重的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nonlocal", "subtitle": "外地", "arg": "2.2.5$%nonlocal$%外地$%EN2zh-CHS$%$%",         "icon": "icon.png"}
