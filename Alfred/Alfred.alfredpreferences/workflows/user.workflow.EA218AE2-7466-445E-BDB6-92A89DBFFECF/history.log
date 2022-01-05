@@ -139,3 +139,11 @@
 {"title": "剩余", "subtitle": "The remaining", "arg": "2.2.5$%剩余$%The remaining$%zh-CHS2EN$%$%",         "icon": "icon.png"}
 {"title": "SEVERE", "subtitle": "严重的", "arg": "2.2.5$%SEVERE$%严重的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "nonlocal", "subtitle": "外地", "arg": "2.2.5$%nonlocal$%外地$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "j", "subtitle": "j", "arg": "2.2.5$%j$%j$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ji", "subtitle": "霁", "arg": "2.2.5$%ji$%霁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "jilu", "subtitle": "jilu", "arg": "2.2.5$%jilu$%jilu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ji", "subtitle": "霁", "arg": "2.2.5$%ji$%霁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "jilu", "subtitle": "jilu", "arg": "2.2.5$%jilu$%jilu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "记录", "subtitle": "record", "arg": "2.2.5$%记录$%record$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "错题集", "subtitle": "Wrong topic set", "arg": "2.2.5$%错题集$%Wrong topic set$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "笔记", "subtitle": "notes", "arg": "2.2.5$%笔记$%notes$%zh-CHS2EN$%$%",         "icon": "icon.png"}
