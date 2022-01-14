@@ -149,3 +149,5 @@
 {"title": "笔记", "subtitle": "notes", "arg": "2.2.5$%笔记$%notes$%zh-CHS2EN$%$%",         "icon": "icon.png"}
 {"title": "latch", "subtitle": "门闩", "arg": "2.2.5$%latch$%门闩$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "Experiment", "subtitle": "实验", "arg": "2.2.5$%Experiment$%实验$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "overlapping", "subtitle": "重叠", "arg": "2.2.5$%overlapping$%重叠$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "工作", "subtitle": "work", "arg": "2.2.5$%工作$%work$%zh-CHS2EN$%$%",         "icon": "icon.png"}
