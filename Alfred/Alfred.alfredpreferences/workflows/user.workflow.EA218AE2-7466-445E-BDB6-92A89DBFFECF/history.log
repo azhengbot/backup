@@ -152,3 +152,6 @@
 {"title": "overlapping", "subtitle": "重叠", "arg": "2.2.5$%overlapping$%重叠$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "工作", "subtitle": "work", "arg": "2.2.5$%工作$%work$%zh-CHS2EN$%$%",         "icon": "icon.png"}
 {"title": "备忘", "subtitle": "cheat", "arg": "2.2.5$%备忘$%cheat$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "generator", "subtitle": "发电机", "arg": "2.2.5$%generator$%发电机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "latency", "subtitle": "延迟", "arg": "2.2.5$%latency$%延迟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "actuator", "subtitle": "致动器", "arg": "2.2.5$%actuator$%致动器$%EN2zh-CHS$%$%",         "icon": "icon.png"}
