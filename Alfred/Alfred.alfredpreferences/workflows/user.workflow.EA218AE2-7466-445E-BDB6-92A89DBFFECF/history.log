@@ -155,3 +155,5 @@
 {"title": "generator", "subtitle": "发电机", "arg": "2.2.5$%generator$%发电机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "latency", "subtitle": "延迟", "arg": "2.2.5$%latency$%延迟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "actuator", "subtitle": "致动器", "arg": "2.2.5$%actuator$%致动器$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Resolution", "subtitle": "决议", "arg": "2.2.5$%Resolution$%决议$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Resolutio", "subtitle": "解决", "arg": "2.2.5$%Resolutio$%解决$%EN2zh-CHS$%$%",         "icon": "icon.png"}
