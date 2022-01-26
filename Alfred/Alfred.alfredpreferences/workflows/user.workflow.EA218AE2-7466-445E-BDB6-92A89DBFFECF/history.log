@@ -157,3 +157,5 @@
 {"title": "actuator", "subtitle": "致动器", "arg": "2.2.5$%actuator$%致动器$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "Resolution", "subtitle": "决议", "arg": "2.2.5$%Resolution$%决议$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "Resolutio", "subtitle": "解决", "arg": "2.2.5$%Resolutio$%解决$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "synthetic", "subtitle": "合成", "arg": "2.2.5$%synthetic$%合成$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "molecule", "subtitle": "分子", "arg": "2.2.5$%molecule$%分子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
