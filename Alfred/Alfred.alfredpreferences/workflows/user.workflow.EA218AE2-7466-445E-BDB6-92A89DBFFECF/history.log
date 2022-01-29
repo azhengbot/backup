@@ -160,3 +160,19 @@
 {"title": "synthetic", "subtitle": "合成", "arg": "2.2.5$%synthetic$%合成$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "molecule", "subtitle": "分子", "arg": "2.2.5$%molecule$%分子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
 {"title": "caret", "subtitle": "脱字符号", "arg": "2.2.5$%caret$%脱字符号$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "账单", "subtitle": "bill", "arg": "2.2.5$%账单$%bill$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账单", "subtitle": "bill", "arg": "2.2.5$%账单$%bill$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "bill", "subtitle": "比尔", "arg": "2.2.5$%bill$%比尔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "流水", "subtitle": "Running water", "arg": "2.2.5$%流水$%Running water$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账单流水", "subtitle": "Bills running water", "arg": "2.2.5$%账单流水$%Bills running water$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账单", "subtitle": "bill", "arg": "2.2.5$%账单$%bill$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账单记录", "subtitle": "Billing records", "arg": "2.2.5$%账单记录$%Billing records$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账", "subtitle": "zhang", "arg": "2.2.5$%账$%zhang$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账单", "subtitle": "bill", "arg": "2.2.5$%账单$%bill$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "账单记录", "subtitle": "Billing records", "arg": "2.2.5$%账单记录$%Billing records$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "记录", "subtitle": "record", "arg": "2.2.5$%记录$%record$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "金额", "subtitle": "The amount of", "arg": "2.2.5$%金额$%The amount of$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "fas", "subtitle": "fas", "arg": "2.2.5$%fas$%fas$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "发生", "subtitle": "happen", "arg": "2.2.5$%发生$%happen$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "发生时间", "subtitle": "Time of occurrence", "arg": "2.2.5$%发生时间$%Time of occurrence$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "发生时", "subtitle": "occurs", "arg": "2.2.5$%发生时$%occurs$%zh-CHS2EN$%$%",         "icon": "icon.png"}
