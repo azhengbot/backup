@@ -176,3 +176,5 @@
 {"title": "发生", "subtitle": "happen", "arg": "2.2.5$%发生$%happen$%zh-CHS2EN$%$%",         "icon": "icon.png"}
 {"title": "发生时间", "subtitle": "Time of occurrence", "arg": "2.2.5$%发生时间$%Time of occurrence$%zh-CHS2EN$%$%",         "icon": "icon.png"}
 {"title": "发生时", "subtitle": "occurs", "arg": "2.2.5$%发生时$%occurs$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "li", "subtitle": "李", "arg": "2.2.5$%li$%李$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "链表", "subtitle": "The list", "arg": "2.2.5$%链表$%The list$%zh-CHS2EN$%$%",         "icon": "icon.png"}
