@@ -121,7 +121,7 @@
 	<key>description</key>
 	<string>使用有道翻译你想知道的单词和语句</string>
 	<key>disabled</key>
-	<false/>
+	<true/>
 	<key>name</key>
 	<string>Youdao</string>
 	<key>objects</key>
