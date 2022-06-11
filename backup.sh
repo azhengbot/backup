@@ -18,7 +18,7 @@ backup_to_github(){
     git add $DIR
     git commit -m "$msg"
     git pull
-    git push --set-upstream origin main
+    git push --set-upstream origin main && \
     1/0
     echo "上传成功"
 } || {
