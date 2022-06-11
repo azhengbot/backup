@@ -17,15 +17,12 @@ backup_to_github() {
 
     git add $DIR 
     git commit -m "$msg" 
-    return_msg="$(git pull)"
-    echo "${return_msg}"
-    git push --set-upstream origin main
-    echo "上传成功"
+    PULL="$(git pull)"
+    echo "${PULL}"
+    PUSH="$(git push --set-upstream origin main)"
+    echo "${PUSH}"
 } 
 
-display_error() {
-    osascript -e 'display notification "backup 备份失败" with title "backup 备份失败"'
-}
 
 # 主程序
 cd $DIR # 这个很重要
