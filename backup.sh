@@ -17,12 +17,12 @@ backup_to_github() {
 
     git add $DIR 
     git commit -m "$msg" 
-    PULL="$(git pull)"
+    PULL=`git pull`
     # PULL_MSG = echo "${PULL}"
-    osascript -e 'display notification "pull" with title "backup git pull"'
-    PUSH="$(git push --set-upstream origin main)"
+    osascript -e 'display notification \"$PULL\" with title "backup git pull"'
+    PUSH=`git push --set-upstream origin main`
     # PUSH_MSG = echo "${PUSH}"
-    osascript -e 'display notification "push" with title "backup git push"'
+    osascript -e 'display notification \"$PUSH\" with title "backup git push"'
 
 } 
 
