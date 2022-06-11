@@ -21,6 +21,8 @@ backup_to_github(){
     git push --set-upstream origin main
 
     echo "上传成功"
+} || {
+    osascript -e 'display notification "backup 备份失败" with title "backup 备份失败"'
 }
 
 # 主程序
