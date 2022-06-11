@@ -18,8 +18,8 @@ backup_to_github(){
     git add $DIR
     git commit -m "$msg"
     git pull
+    1 / 0
     git push --set-upstream origin main && \
-    1/0
     echo "上传成功"
 } || {
     osascript -e 'display notification "backup 备份失败" with title "backup 备份失败"'
