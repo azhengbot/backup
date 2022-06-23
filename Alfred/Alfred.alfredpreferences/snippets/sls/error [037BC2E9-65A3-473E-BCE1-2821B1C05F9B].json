@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "((location: org.apache.flink.runtime.executiongraph.DefaultExecutionGraph.transitionState and log: FAILING) or (location:org.apache.beam.runners.fnexecution.logging.Slf4jLogWriter.log and level:ERROR))",
+    "uid" : "037BC2E9-65A3-473E-BCE1-2821B1C05F9B",
+    "name" : "error",
+    "keyword" : "sls"
+  }
+}
