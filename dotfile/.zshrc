@@ -9,11 +9,14 @@ eval "$(pyenv init -)"
 
 # if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
 # if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
-
-# export LDFLAGS="-L/usr/local/opt/zlib/lib -L/usr/local/opt/bzip2/lib"
-# export CPPFLAGS="-I/usr/local/opt/zlib/include -I/usr/local/opt/bzip2/include"
-export LDFLAGS="-L/usr/local/opt/bzip2/lib"
-export CPPFLAGS="-I/usr/local/opt/bzip2/include"
+export PATH=$PATH:/usr/local/mysql/bin
+export LDFLAGS="-L/usr/local/opt/zlib/lib -L/usr/local/opt/bzip2/lib"
+export CPPFLAGS="-I/usr/local/opt/zlib/include -I/usr/local/opt/bzip2/include"
+# export LDFLAGS="-L/usr/local/opt/zlib/lib"
+# export CPPFLAGS="-I/usr/local/opt/zlib/include"
+# export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig"
+# export LDFLAGS="-L/usr/local/opt/bzip2/lib"
+# export CPPFLAGS="-I/usr/local/opt/bzip2/include"
 source ~/.zinit/bin/zinit.zsh
 
 # p10k
@@ -80,3 +83,19 @@ export HADOOP_HOME=/usr/local/Cellar/hadoop/3.3.1/libexec
 export HADOOP_COMMON_HOME=$HADOOP_HOME
 export PATH=$JAVA_HOME/bin:$PATH:$HADOOP_HOME/bin:/usr/local/Cellar/scala/bin
 export PATH="/usr/local/opt/bzip2/bin:$PATH"
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/usr/local/Caskroom/miniconda/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/usr/local/Caskroom/miniconda/base/etc/profile.d/conda.sh" ]; then
+        . "/usr/local/Caskroom/miniconda/base/etc/profile.d/conda.sh"
+    else
+        export PATH="/usr/local/Caskroom/miniconda/base/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
