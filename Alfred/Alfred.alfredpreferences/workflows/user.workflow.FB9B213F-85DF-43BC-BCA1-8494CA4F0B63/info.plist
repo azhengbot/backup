@@ -1,0 +1,2550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>app.anybox.Anybox.AlfredWorkflow</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>077063FD-650E-494D-9468-E028CA2204C3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8B8767DF-7544-496A-B62B-01145E00EB53</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B4A068EC-018B-417F-A7DD-14833DBCFA0E</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>11042E61-32C1-4ED7-B7AD-A3AA7E85DCCC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F719B8B5-6AC3-4502-8C2E-255EF81B311B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>13B22BA2-0DCA-44E1-A51F-70FB6349A37A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>311D47D2-8D94-49BE-8B0B-F8347F926EB5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>18C00F3D-8EDF-4E6E-A044-275DD20F9A45</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>49BA8718-2255-4CB0-A12F-37AD4CEE07A2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2E2374FA-5EC1-4BC9-8AF4-707F92BA6988</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A13CFEAE-6B09-4B11-AB96-9386426608EB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>311D47D2-8D94-49BE-8B0B-F8347F926EB5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2E2374FA-5EC1-4BC9-8AF4-707F92BA6988</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>31BE16FE-4B69-43E5-BA21-7D6070BD8DB0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D770F16A-68BA-44BF-ADA9-F6E46D21FDDA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>533074ED-AF54-46E2-80A2-8CC0A8B386EE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9E1810C0-132C-44F8-859D-D87EA6A2521E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>9E769227-7A66-415B-A312-01275B89479B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D4F8E10B-062F-4207-8F4F-E3D25ED4A941</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>7EDCABB4-5A49-4A49-98E8-07ADC85A9255</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>66FEC9E5-8DE3-4FC7-B7AB-4309DD9F9BE6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DB4A9F70-DABC-476B-8D1C-348DA7F3121D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6B1A7DC1-2948-40E3-A16A-4704C1C46926</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6DCE0ACB-159D-439B-A058-87E705E6E5D3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>77EF951B-D4BA-471D-A40C-A8C239E3B1A9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>424D41D8-3B0A-43EE-ADDC-8047DD636197</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8844397A-C365-41DF-9AC7-3E747F6949C2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>74799166-9C9A-4D1B-9799-6C2D05706A21</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8B8767DF-7544-496A-B62B-01145E00EB53</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B4A068EC-018B-417F-A7DD-14833DBCFA0E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9408F46F-D987-43B7-8888-D859B319D061</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>533074ED-AF54-46E2-80A2-8CC0A8B386EE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>3224CBCD-2484-4A40-B50F-802F3DA79882</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Paste Link as Markdown</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2B803EB0-A7A6-4746-8CA5-35C7966BD632</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>Paste URL</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9487E3F0-E020-458E-ADCB-14A41542487A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3A6ED9AC-F501-42BD-996E-F3EC1DA12F1B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9E1810C0-132C-44F8-859D-D87EA6A2521E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F8731914-A043-4961-943B-E936F7E7ECE6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A1513423-C4AE-410A-AEA2-E1D8923C6373</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3E8EF399-5D97-42EF-94EF-62429AACA5C6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A9C36069-EF86-4A86-87D2-1F7598327CED</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F8243C51-48E8-4A30-A784-FAAE5BE88D19</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B726FC5D-E47A-453A-ADF5-9EBE90BD6255</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7A8631E2-F05F-4D1F-9833-5A5692FC04A3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B81D3FAB-436B-45E2-9222-778C74F366AE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A2655527-1DB5-499C-AE3B-BF14C73EB34C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D4F8E10B-062F-4207-8F4F-E3D25ED4A941</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DCDC116B-7FA7-4CBE-BAB1-7681AB7980C5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DCDC116B-7FA7-4CBE-BAB1-7681AB7980C5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>77EF951B-D4BA-471D-A40C-A8C239E3B1A9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F63B2357-2FB8-4AAB-8AFA-ADE2D13DDC30</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>11042E61-32C1-4ED7-B7AD-A3AA7E85DCCC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>F719B8B5-6AC3-4502-8C2E-255EF81B311B</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Install Anybox on Mac App Store</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F8731914-A043-4961-943B-E936F7E7ECE6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>13B22BA2-0DCA-44E1-A51F-70FB6349A37A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>3F56AA06-184B-40AD-9CA7-6B9AD3CAB4FD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Anybox LTD</string>
+	<key>description</key>
+	<string>Control Anybox with Alfred</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Anybox</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+				<key>utf8</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>A13CFEAE-6B09-4B11-AB96-9386426608EB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>13B22BA2-0DCA-44E1-A51F-70FB6349A37A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key></key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2E2374FA-5EC1-4BC9-8AF4-707F92BA6988</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>	</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>311D47D2-8D94-49BE-8B0B-F8347F926EB5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>1</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>import urllib.request
+import sys
+import json
+import os
+from datetime import datetime
+
+api_key = os.getenv('api_key')
+show_full_urls = os.getenv('show_full_urls') == '1'
+show_dates = os.getenv('show_dates') == '1'
+collection_id = os.getenv('collection')
+link_descriptions = os.getenv('link_descriptions') == '1'
+
+q = '{query}'
+
+def is_today(date):
+    today = datetime.today().replace(tzinfo=date.tzinfo)
+    if (today - date).days == 0:
+        return True
+    else:
+        return False
+
+def is_yesteryday(date):
+    today = datetime.today().replace(tzinfo=date.tzinfo)
+    if (today - date).days == 1:
+        return True
+    else:
+        return False
+
+def less_than_a_week(date):
+    today = datetime.today().replace(tzinfo=date.tzinfo)
+    if (today - date).days &lt;= 7:
+        return True
+    else:
+        return False
+
+def format_url(url):
+    if url.startswith('https://'):
+        return url.removeprefix('https://')
+    elif url.startswith('http://'):
+        return url.removeprefix('http://')
+    else:
+        return url
+
+# E.g., 2021-12-09T02:40:12Z
+def format_date(original):
+    date = datetime.strptime(original, "%Y-%m-%dT%H:%M:%S%z")
+    tz = datetime.now().astimezone().tzinfo
+    if is_today(date):
+        return 'Today at ' + date.astimezone(tz).strftime("%H:%M")
+    elif is_yesteryday(date):
+        return 'Yesterady at ' + date.astimezone(tz).strftime("%H:%M")
+    elif less_than_a_week(date):
+        return date.astimezone(tz).strftime("%b %d, %Y at %H:%M")
+    return date.astimezone(tz).strftime("%b %d, %Y")
+
+def format_subtitle(link):
+    subtitle = ''
+    date = ''
+    if show_dates:
+        date = ' • ' + format_date(link['dateLastOpened'])
+    if show_full_urls:
+        subtitle = format_url(link['url']) + date
+    else:
+        subtitle = link['host'] + date
+    if 'comment' in link and link['comment'] != "":
+      subtitle = subtitle + ' • ' + link['comment']
+    return subtitle
+
+
+def download_file(url, folder):
+    if not os.path.isdir(folder):
+        os.makedirs(folder)
+        try:
+            urllib.request.urlretrieve(url, folder + '/icon')
+        except:
+            try:
+                urllib.request.urlretrieve(
+                    "http://127.0.0.1:6391/images/default-browser-icon.png",
+                    folder + '/icon')
+            except:
+                ()
+
+def throw_error():
+  error_feedback = {
+    'items': [
+      {
+        'title': 'It looks like Anybox it’s not running or haven’t installed.',
+        'subtitle': 'Press ⏎ to open Anybox or press ⌘ + ⏎ to install Anybox in Mac App Store.',
+        'arg': ['anybox://show'],
+        'mods': {
+          'cmd': {
+              'valid': True,
+              'arg': 'itms-apps://apps.apple.com/app/id1593408455',
+              'subtitle': 'Install Anybox on Mac App Store.'
+          },
+        }
+      }
+    ]
+  }
+  sys.stdout.write(json.dumps(error_feedback))
+
+def get_links():
+  headers = {'x-api-key': api_key}
+  payload = {
+      'q': q,
+      'limit': 30,
+      'collection': collection_id
+  }
+  if link_descriptions:
+    payload['linkDescriptions'] = 'yes'
+  data = urllib.parse.urlencode(payload)
+  req = urllib.request.Request('http://127.0.0.1:6391/search?' + data, headers=headers)
+  try:
+    with urllib.request.urlopen(req) as response:
+      list = json.loads(response.read())
+      result = []
+      for link in list:
+        icon_url = 'http://127.0.0.1:6391/images/' + link['id'] + '/icon'
+        icon_relative_url = './Link Icons/' + link['id']
+        download_file(icon_url, icon_relative_url)
+        url = link['url']
+        title = link['title']
+        markdown_url = '[' + title + ']' + '(' + url + ')'
+        anybox_url = 'anybox://document/' + link['id']
+        item = {
+              'title': title,
+              'subtitle': format_subtitle(link),
+              'arg': [url, link['id']],
+              'icon': {
+                  'path': icon_relative_url + "/icon"
+              },
+              'text': {
+                  'copy': url,
+                  'largetype': title
+              },
+              'mods': {
+                  'alt': {
+                      'valid': True,
+                      'arg': markdown_url,
+                      'subtitle': markdown_url
+                  },
+                  'cmd': {
+                      'valid': True,
+                      'arg': anybox_url,
+                      'subtitle': anybox_url
+                  },
+                  'shift': {
+                      'valid': True,
+                      'arg': url,
+                      'subtitle': url
+                  },
+                  
+              },
+              'quicklookurl': url
+          }
+        result.append(item)
+    return result
+  except urllib.error.HTTPError as e:
+    throw_error()
+  except urllib.error.URLError as e:
+    throw_error()
+
+
+links = get_links()
+result = {
+  'items': links
+}
+sys.stdout.write(json.dumps(result))</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>F8731914-A043-4961-943B-E936F7E7ECE6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>collection</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>9E1810C0-132C-44F8-859D-D87EA6A2521E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>toggle anydock</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Toggle Anydock</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8844397A-C365-41DF-9AC7-3E747F6949C2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/toggle-anydock</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>74799166-9C9A-4D1B-9799-6C2D05706A21</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import urllib.request
+import sys
+import os
+
+api_key = os.getenv('api_key')
+
+headers = {'x-api-key': api_key}
+
+req = urllib.request.Request(
+    'http://127.0.0.1:6391/document/' + sys.argv[2], headers=headers, method='PUT')
+urllib.request.urlopen(req)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3F56AA06-184B-40AD-9CA7-6B9AD3CAB4FD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>sd</string>
+				<key>queuedelaycustom</key>
+				<integer>2</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>Seaching…</string>
+				<key>script</key>
+				<string>import urllib.request
+import sys
+import json
+import os
+from datetime import datetime
+
+api_key = os.getenv('api_key')
+show_full_urls = os.getenv('show_full_urls') == '1'
+show_dates = os.getenv('show_dates') == '1'
+show_collections = os.getenv('show_collections') == '1'
+link_descriptions = os.getenv('link_descriptions') == '1'
+
+q = ''
+if len(sys.argv) &gt;= 2:
+    q = sys.argv[1]
+
+def is_today(date):
+    today = datetime.today().replace(tzinfo=date.tzinfo)
+    if (today - date).days == 0:
+        return True
+    else:
+        return False
+
+def is_yesteryday(date):
+    today = datetime.today().replace(tzinfo=date.tzinfo)
+    if (today - date).days == 1:
+        return True
+    else:
+        return False
+
+def less_than_a_week(date):
+    today = datetime.today().replace(tzinfo=date.tzinfo)
+    if (today - date).days &lt;= 7:
+        return True
+    else:
+        return False
+
+def format_url(url):
+    if url.startswith('https://'):
+        return url.removeprefix('https://')
+    elif url.startswith('http://'):
+        return url.removeprefix('http://')
+    else:
+        return url
+
+# E.g., 2021-12-09T02:40:12Z
+def format_date(original):
+    date = datetime.strptime(original, "%Y-%m-%dT%H:%M:%S%z")
+    tz = datetime.now().astimezone().tzinfo
+    if is_today(date):
+        return 'Today at ' + date.astimezone(tz).strftime("%H:%M")
+    elif is_yesteryday(date):
+        return 'Yesterady at ' + date.astimezone(tz).strftime("%H:%M")
+    elif less_than_a_week(date):
+        return date.astimezone(tz).strftime("%b %d, %Y at %H:%M")
+    return date.astimezone(tz).strftime("%b %d, %Y")
+
+def format_subtitle(link):
+    subtitle = ''
+    date = ''
+    if show_dates:
+        date = ' • ' + format_date(link['dateLastOpened'])
+    if show_full_urls:
+        subtitle = format_url(link['url']) + date
+    else:
+        subtitle = link['host'] + date
+    if 'comment' in link and link['comment'] != "":
+      subtitle = subtitle + ' • ' + link['comment']
+    return subtitle
+
+
+def download_file(url, folder):
+    if not os.path.isdir(folder):
+        os.makedirs(folder)
+        try:
+            urllib.request.urlretrieve(url, folder + '/icon')
+        except:
+            try:
+                urllib.request.urlretrieve(
+                    "http://127.0.0.1:6391/images/default-browser-icon.png",
+                    folder + '/icon')
+            except:
+                ()
+
+def throw_error():
+  error_feedback = {
+    'items': [
+      {
+        'title': 'It looks like Anybox it’s not running or haven’t installed.',
+        'subtitle': 'Press ⏎ to open Anybox or press ⌘ + ⏎ to install Anybox in Mac App Store.',
+        'arg': ['anybox://show'],
+        'mods': {
+          'cmd': {
+              'valid': True,
+              'arg': 'itms-apps://apps.apple.com/app/id1593408455',
+              'subtitle': 'Install Anybox on Mac App Store.'
+          },
+        }
+      }
+    ]
+  }
+  sys.stdout.write(json.dumps(error_feedback))
+
+def get_links():
+  headers = {'x-api-key': api_key}
+  payload = {
+      'q': q,
+      'limit': 30,
+  }
+  if link_descriptions:
+    payload['linkDescriptions'] = 'yes'
+  data = urllib.parse.urlencode(payload)
+  req = urllib.request.Request('http://127.0.0.1:6391/search?' + data, headers=headers)
+  try:
+    with urllib.request.urlopen(req) as response:
+      list = json.loads(response.read())
+      result = []
+      for link in list:
+        icon_url = 'http://127.0.0.1:6391/images/' + link['id'] + '/icon'
+        icon_relative_url = './Link Icons/' + link['id']
+        download_file(icon_url, icon_relative_url)
+        url = link['url']
+        title = link['title']
+        markdown_url = '[' + title + ']' + '(' + url + ')'
+        anybox_url = 'anybox://document/' + link['id']
+        item = {
+              'title': title,
+              'subtitle': format_subtitle(link),
+              'arg': [url, link['id']],
+              'icon': {
+                  'path': icon_relative_url + "/icon"
+              },
+              'text': {
+                  'copy': url,
+                  'largetype': title
+              },
+              'mods': {
+                  'alt': {
+                      'valid': True,
+                      'arg': markdown_url,
+                      'subtitle': markdown_url
+                  },
+                  'cmd': {
+                      'valid': True,
+                      'arg': anybox_url,
+                      'subtitle': anybox_url
+                  },
+                  'shift': {
+                      'valid': True,
+                      'arg': url,
+                      'subtitle': url
+                  },
+                  
+              },
+              'quicklookurl': url
+          }
+        result.append(item)
+    return result
+  except urllib.error.HTTPError as e:
+    throw_error()
+  except urllib.error.URLError as e:
+    throw_error()
+
+def get_collections():
+  payload = {
+    'q': q,
+    'limit': 5,
+  }
+  data = urllib.parse.urlencode(payload)
+  req = urllib.request.Request('http://127.0.0.1:6391/collections?' + data)
+  try: 
+    resp = urllib.request.urlopen(req) 
+    items = json.loads(resp.read())
+    result = []
+    for list_item in items:
+      id = list_item['id']
+      name = list_item['name']
+      subtitle = 'Collection' + ' • ' + str(list_item['count']) + ' items'
+      anybox_url = 'anybox://collection/' + id
+      markdown_url = '[' + name + ']' + '(' + anybox_url + ')'
+      item = {
+        'title': name,
+        'subtitle': subtitle,
+        'arg': [id],
+        'icon': {
+          'path': './List Icons/collection.png'
+        },
+        'mods': {
+          'alt': {
+              'valid': True,
+              'arg': markdown_url,
+              'subtitle': markdown_url
+          },
+          'cmd': {
+              'valid': True,
+              'arg': anybox_url,
+              'subtitle': anybox_url
+          }
+        },
+      }
+      result.append(item)
+    return result
+  except urllib.error.HTTPError as e:
+    throw_error()
+  except urllib.error.URLError as e:
+    throw_error()
+
+
+collections = []
+if show_collections:
+  collections = get_collections()
+links = get_links()
+result = {
+  'items': collections + links
+}
+sys.stdout.write(json.dumps(result))</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Search for links in Anybox</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>9408F46F-D987-43B7-8888-D859B319D061</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>D4F8E10B-062F-4207-8F4F-E3D25ED4A941</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>	</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>DCDC116B-7FA7-4CBE-BAB1-7681AB7980C5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<true/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>^[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}$</string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>9E769227-7A66-415B-A312-01275B89479B</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>533074ED-AF54-46E2-80A2-8CC0A8B386EE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key></key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>77EF951B-D4BA-471D-A40C-A8C239E3B1A9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>toggle link detection</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Toggle Link Detection</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>66FEC9E5-8DE3-4FC7-B7AB-4309DD9F9BE6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/toggle-link-detection</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>DB4A9F70-DABC-476B-8D1C-348DA7F3121D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+				<key>utf8</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>424D41D8-3B0A-43EE-ADDC-8047DD636197</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import urllib.request
+import sys
+import os
+
+api_key = os.getenv('api_key')
+
+headers = {'x-api-key': api_key}
+
+req = urllib.request.Request(
+    'http://127.0.0.1:6391/document/' + sys.argv[2], headers=headers, method='PUT')
+urllib.request.urlopen(req)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7EDCABB4-5A49-4A49-98E8-07ADC85A9255</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>show quick save</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Show Quick Save</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>31BE16FE-4B69-43E5-BA21-7D6070BD8DB0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/show-quick-save</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D770F16A-68BA-44BF-ADA9-F6E46D21FDDA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>3224CBCD-2484-4A40-B50F-802F3DA79882</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>save current tab</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Save Current Tab</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6B1A7DC1-2948-40E3-A16A-4704C1C46926</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>2B803EB0-A7A6-4746-8CA5-35C7966BD632</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>curl -X POST localhost:6391/save-current-tab</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6DCE0ACB-159D-439B-A058-87E705E6E5D3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>save clipboard</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Save Clipboard</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>18C00F3D-8EDF-4E6E-A044-275DD20F9A45</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/paste</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>49BA8718-2255-4CB0-A12F-37AD4CEE07A2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>save note</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Save Note</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A1513423-C4AE-410A-AEA2-E1D8923C6373</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>from urllib import request
+import urllib.error
+import json
+import sys
+
+note = ''
+if len(sys.argv) &gt;= 2:
+   note = sys.argv[1]
+
+payload = {
+	'note': note
+}
+data = json.dumps(payload).encode("utf-8")
+headers = {'Content-Type': 'application/json'}
+req = request.Request('http://127.0.0.1:6391/save', headers=headers, data=data, method='POST')
+
+error_feedback = {
+  'items': [
+    {
+      'title': 'It looks like Anybox it’s not running or haven’t installed.',
+      'subtitle': 'Press ⏎ to open Anybox or press ⌘ + ⏎ to install Anybox in Mac App Store.',
+      'arg': ['anybox://show'],
+      'mods': {
+        'cmd': {
+            'valid': True,
+            'arg': 'itms-apps://apps.apple.com/app/id1593408455',
+            'subtitle': 'Install Anybox on Mac App Store.'
+        },
+      }
+    }
+  ]
+}
+
+try:
+    request.urlopen(req)
+except urllib.error.HTTPError as e:
+    sys.stdout.write(error_feedback)
+except urllib.error.URLError as e:
+    sys.stdout.write(error_feedback)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3E8EF399-5D97-42EF-94EF-62429AACA5C6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>toggle stash box</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Toggle Stash Box</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>9487E3F0-E020-458E-ADCB-14A41542487A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/toggle-stashbox</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3A6ED9AC-F501-42BD-996E-F3EC1DA12F1B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>show list</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>from urllib import request
+import sys
+import json
+
+def list_icon(type, id):
+  url = './List Icons/'
+  if type == 'preset':
+    return url + id + '.png'
+  elif type == 'collection':
+    return url + 'collection.png'
+  elif type == 'filter':
+    return url + 'filter.png'
+  else:
+    return ''
+
+def list_url(type, id):
+  if type == 'preset':
+    return 'anybox://show?id=' + id
+  elif type == 'collection':
+    return 'anybox://collection/' + id
+  elif type == 'filter':
+    return 'anybox://filter/' + id
+  else:
+    return 'anybox://show'
+
+def list_type_name(type):
+  if type == 'preset':
+    return 'Preset'
+  elif type == 'collection':
+    return 'Collection'
+  elif type == 'filter':
+    return "Smart List"
+  else:
+    return 'Unknown'
+
+
+def get_items(type):
+  req = request.Request('http://127.0.0.1:6391/' + type)
+  resp = request.urlopen(req) 
+  items = json.loads(resp.read())
+  result = []
+  for list_item in items:
+    id = list_item['id']
+    list_type = list_item['type']
+    icon = list_icon(list_type, id)
+    url = list_url(list_item['type'], id)
+    subtitle = list_type_name(list_type) + ' • ' + str(list_item['count']) + ' items'
+    item = {
+      'title': list_item['name'],
+      'subtitle':  subtitle,
+      'arg': [url],
+      'icon': {
+        'path': icon
+      },
+    }
+    result.append(item)
+  return result
+
+def get_presets():
+  return get_items('presets')
+
+def get_filters():
+  return get_items('filters')
+
+def get_collections():
+  return get_items('collections')
+
+presets = get_presets()
+filters = get_filters()
+collections = get_collections()
+
+all =  {
+  'items': presets + filters + collections
+}
+sys.stdout.write(json.dumps(all))
+
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Show List in Anybox</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>A9C36069-EF86-4A86-87D2-1F7598327CED</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+				<key>utf8</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>F8243C51-48E8-4A30-A784-FAAE5BE88D19</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>switch profile</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>from urllib import request
+import sys
+import json
+import os
+
+def get_items():
+  req = request.Request('http://127.0.0.1:6391/anydock-profiles')
+  resp = request.urlopen(req) 
+  items = json.loads(resp.read())
+  result = {
+    'items': []
+  }
+  for list_item in items:
+    id = list_item['id']
+    item = {
+      'title': list_item['name'],
+      'arg': [id],
+      'icon': {
+        'path': './List Icons/anydock.png'
+      },
+    }
+    result['items'].append(item)
+  return json.dumps(result)
+
+sys.stdout.write(get_items())
+
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Switch Anydock Profile</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>B726FC5D-E47A-453A-ADF5-9EBE90BD6255</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/switch-profile/{query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7A8631E2-F05F-4D1F-9833-5A5692FC04A3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>open all profile</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>from urllib import request
+import sys
+import json
+import os
+
+def get_items():
+  req = request.Request('http://127.0.0.1:6391/anydock-profiles')
+  resp = request.urlopen(req) 
+  items = json.loads(resp.read())
+  result = {
+    'items': []
+  }
+  for list_item in items:
+    id = list_item['id']
+    item = {
+      'title': list_item['name'],
+      'arg': [id],
+      'icon': {
+        'path': './List Icons/anydock.png'
+      },
+    }
+    result['items'].append(item)
+  return json.dumps(result)
+
+sys.stdout.write(get_items())
+
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Open All in Anydock Profile</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>B81D3FAB-436B-45E2-9222-778C74F366AE</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>curl -X POST 127.0.0.1:6391/open-all-in-profile/{query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A2655527-1DB5-499C-AE3B-BF14C73EB34C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>from urllib import request
+import urllib.error
+import json
+import sys
+
+if '{query}' == 'anybox://show':
+    sys.stdout.write('anybox://show')
+
+payload = {
+	'collections': ["{query}"]
+}
+data = json.dumps(payload).encode("utf-8")
+headers = {'Content-Type': 'application/json'}
+req = request.Request('http://127.0.0.1:6391/save-current-tab', headers=headers, data=data, method='POST')
+
+try:
+    request.urlopen(req)
+except urllib.error.HTTPError as e:
+    sys.stderr.write(str(e))
+except urllib.error.URLError as e:
+    sys.stderr.write(str(e))</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8B8767DF-7544-496A-B62B-01145E00EB53</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>save tab collection</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>from urllib import request
+import urllib.error
+import sys
+import json
+
+error_feedback = {
+  'items': [
+    {
+      'title': 'It looks like Anybox it’s not running or haven’t installed.',
+      'subtitle': 'Press ⏎ to open Anybox or press ⌘ + ⏎ to install Anybox in Mac App Store.',
+      'arg': ['anybox://show'],
+      'mods': {
+        'cmd': {
+            'valid': True,
+            'arg': 'itms-apps://apps.apple.com/app/id1593408455',
+            'subtitle': 'Install Anybox on Mac App Store.'
+        },
+      }
+    }
+  ]
+}
+
+def get_collections():
+  req = request.Request('http://127.0.0.1:6391/collections')
+  try: 
+    resp = request.urlopen(req) 
+    items = json.loads(resp.read())
+    result = {
+      'items': []
+    }
+    for list_item in items:
+      id = list_item['id']
+      name = list_item['name']
+      item = {
+        'title': name,
+        'arg': [id],
+        'icon': {
+          'path': './List Icons/collection.png'
+        },
+      }
+      result['items'].append(item)
+    sys.stdout.write(json.dumps(result))
+  except urllib.error.HTTPError as e:
+    sys.stdout.write(json.dumps(error_feedback))
+  except urllib.error.URLError as e:
+    sys.stdout.write(json.dumps(error_feedback))
+
+get_collections()
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Save Current Tab with Collection</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>077063FD-650E-494D-9468-E028CA2204C3</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+				<key>utf8</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>B4A068EC-018B-417F-A7DD-14833DBCFA0E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>from urllib import request
+import urllib.error
+import json
+import sys
+
+
+if '{query}' == 'anybox://show':
+    sys.stdout.write('anybox://show')
+
+payload = {
+	'collections': ["{query}"]
+}
+data = json.dumps(payload).encode("utf-8")
+headers = {'Content-Type': 'application/json'}
+req = request.Request('http://127.0.0.1:6391/paste', headers=headers, data=data, method='POST')
+
+try:
+    request.urlopen(req)
+except urllib.error.HTTPError as e:
+    sys.stderr.write(str(e))
+except urllib.error.URLError as e:
+    sys.stderr.write(str(e))</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>11042E61-32C1-4ED7-B7AD-A3AA7E85DCCC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>save clipboard collection</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>from urllib import request
+import urllib.error
+import sys
+import json
+
+error_feedback = {
+  'items': [
+    {
+      'title': 'It looks like Anybox it’s not running or haven’t installed.',
+      'subtitle': 'Press ⏎ to open Anybox or press ⌘ + ⏎ to install Anybox in Mac App Store.',
+      'arg': ['anybox://show'],
+      'mods': {
+        'cmd': {
+            'valid': True,
+            'arg': 'itms-apps://apps.apple.com/app/id1593408455',
+            'subtitle': 'Install Anybox on Mac App Store.'
+        },
+      }
+    }
+  ]
+}
+
+def get_collections():
+  req = request.Request('http://127.0.0.1:6391/collections')
+  try: 
+    resp = request.urlopen(req) 
+    items = json.loads(resp.read())
+    result = {
+      'items': []
+    }
+    for list_item in items:
+      id = list_item['id']
+      name = list_item['name']
+      item = {
+        'title': name,
+        'arg': [id],
+        'icon': {
+          'path': './List Icons/collection.png'
+        },
+      }
+      result['items'].append(item)
+    sys.stdout.write(json.dumps(result))
+  except urllib.error.HTTPError as e:
+    sys.stdout.write(json.dumps(error_feedback))
+  except urllib.error.URLError as e:
+    sys.stdout.write(json.dumps(error_feedback))
+
+get_collections()
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Save Clipboard with Collection</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>F63B2357-2FB8-4AAB-8AFA-ADE2D13DDC30</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+				<key>utf8</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>F719B8B5-6AC3-4502-8C2E-255EF81B311B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string># Alfred Workflow for Anybox
+
+Search links, save links, show Quick Save, toggle Anydock or do other things right in Alfred.
+
+## Supported Actions
+
+1. Search Links
+
+2. Show Quick Save
+
+3. Save Current Tab
+
+4. Save Current Tab with Collections
+
+5. Save Clipboard
+
+6. Save Clipboard with Collections
+
+7. Save Note
+
+8. Toggle Anydock
+
+9. Toggle Stash Box
+
+10. Toggle Link Detection
+
+11. Switch Anydock Profile
+
+12. Open All in Anydock Profile
+
+13. Show List
+
+## Getting API Key for Seach Links Action
+
+Go to Anybox › Settings › General to copy API key.</string>
+	<key>uidata</key>
+	<dict>
+		<key>077063FD-650E-494D-9468-E028CA2204C3</key>
+		<dict>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>1920</real>
+		</dict>
+		<key>11042E61-32C1-4ED7-B7AD-A3AA7E85DCCC</key>
+		<dict>
+			<key>xpos</key>
+			<real>250</real>
+			<key>ypos</key>
+			<real>2120</real>
+		</dict>
+		<key>13B22BA2-0DCA-44E1-A51F-70FB6349A37A</key>
+		<dict>
+			<key>xpos</key>
+			<real>1040</real>
+			<key>ypos</key>
+			<real>40</real>
+		</dict>
+		<key>18C00F3D-8EDF-4E6E-A044-275DD20F9A45</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>860</real>
+		</dict>
+		<key>2B803EB0-A7A6-4746-8CA5-35C7966BD632</key>
+		<dict>
+			<key>xpos</key>
+			<real>660</real>
+			<key>ypos</key>
+			<real>700</real>
+		</dict>
+		<key>2E2374FA-5EC1-4BC9-8AF4-707F92BA6988</key>
+		<dict>
+			<key>xpos</key>
+			<real>1205</real>
+			<key>ypos</key>
+			<real>40</real>
+		</dict>
+		<key>311D47D2-8D94-49BE-8B0B-F8347F926EB5</key>
+		<dict>
+			<key>xpos</key>
+			<real>1125</real>
+			<key>ypos</key>
+			<real>40</real>
+		</dict>
+		<key>31BE16FE-4B69-43E5-BA21-7D6070BD8DB0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>515</real>
+		</dict>
+		<key>3224CBCD-2484-4A40-B50F-802F3DA79882</key>
+		<dict>
+			<key>xpos</key>
+			<real>775</real>
+			<key>ypos</key>
+			<real>580</real>
+		</dict>
+		<key>3A6ED9AC-F501-42BD-996E-F3EC1DA12F1B</key>
+		<dict>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1255</real>
+		</dict>
+		<key>3E8EF399-5D97-42EF-94EF-62429AACA5C6</key>
+		<dict>
+			<key>xpos</key>
+			<real>265</real>
+			<key>ypos</key>
+			<real>1045</real>
+		</dict>
+		<key>3F56AA06-184B-40AD-9CA7-6B9AD3CAB4FD</key>
+		<dict>
+			<key>xpos</key>
+			<real>1170</real>
+			<key>ypos</key>
+			<real>200</real>
+		</dict>
+		<key>424D41D8-3B0A-43EE-ADDC-8047DD636197</key>
+		<dict>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>340</real>
+		</dict>
+		<key>49BA8718-2255-4CB0-A12F-37AD4CEE07A2</key>
+		<dict>
+			<key>xpos</key>
+			<real>265</real>
+			<key>ypos</key>
+			<real>870</real>
+		</dict>
+		<key>533074ED-AF54-46E2-80A2-8CC0A8B386EE</key>
+		<dict>
+			<key>xpos</key>
+			<real>700</real>
+			<key>ypos</key>
+			<real>260</real>
+		</dict>
+		<key>66FEC9E5-8DE3-4FC7-B7AB-4309DD9F9BE6</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>315</real>
+		</dict>
+		<key>6B1A7DC1-2948-40E3-A16A-4704C1C46926</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>690</real>
+		</dict>
+		<key>6DCE0ACB-159D-439B-A058-87E705E6E5D3</key>
+		<dict>
+			<key>xpos</key>
+			<real>275</real>
+			<key>ypos</key>
+			<real>700</real>
+		</dict>
+		<key>74799166-9C9A-4D1B-9799-6C2D05706A21</key>
+		<dict>
+			<key>xpos</key>
+			<real>275</real>
+			<key>ypos</key>
+			<real>140</real>
+		</dict>
+		<key>77EF951B-D4BA-471D-A40C-A8C239E3B1A9</key>
+		<dict>
+			<key>xpos</key>
+			<real>995</real>
+			<key>ypos</key>
+			<real>260</real>
+		</dict>
+		<key>7A8631E2-F05F-4D1F-9833-5A5692FC04A3</key>
+		<dict>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1635</real>
+		</dict>
+		<key>7EDCABB4-5A49-4A49-98E8-07ADC85A9255</key>
+		<dict>
+			<key>xpos</key>
+			<real>1000</real>
+			<key>ypos</key>
+			<real>490</real>
+		</dict>
+		<key>8844397A-C365-41DF-9AC7-3E747F6949C2</key>
+		<dict>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>8B8767DF-7544-496A-B62B-01145E00EB53</key>
+		<dict>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1895</real>
+		</dict>
+		<key>9408F46F-D987-43B7-8888-D859B319D061</key>
+		<dict>
+			<key>xpos</key>
+			<integer>465</integer>
+			<key>ypos</key>
+			<integer>225</integer>
+		</dict>
+		<key>9487E3F0-E020-458E-ADCB-14A41542487A</key>
+		<dict>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>1240</real>
+		</dict>
+		<key>9E1810C0-132C-44F8-859D-D87EA6A2521E</key>
+		<dict>
+			<key>xpos</key>
+			<real>725</real>
+			<key>ypos</key>
+			<real>125</real>
+		</dict>
+		<key>A13CFEAE-6B09-4B11-AB96-9386426608EB</key>
+		<dict>
+			<key>xpos</key>
+			<real>1305</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>A1513423-C4AE-410A-AEA2-E1D8923C6373</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Type your keyword into Alfred to trigger this workflow.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>1035</real>
+		</dict>
+		<key>A2655527-1DB5-499C-AE3B-BF14C73EB34C</key>
+		<dict>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1765</real>
+		</dict>
+		<key>A9C36069-EF86-4A86-87D2-1F7598327CED</key>
+		<dict>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>1460</real>
+		</dict>
+		<key>B4A068EC-018B-417F-A7DD-14833DBCFA0E</key>
+		<dict>
+			<key>xpos</key>
+			<real>500</real>
+			<key>ypos</key>
+			<real>2040</real>
+		</dict>
+		<key>B726FC5D-E47A-453A-ADF5-9EBE90BD6255</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>1615</real>
+		</dict>
+		<key>B81D3FAB-436B-45E2-9222-778C74F366AE</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>1745</real>
+		</dict>
+		<key>D4F8E10B-062F-4207-8F4F-E3D25ED4A941</key>
+		<dict>
+			<key>xpos</key>
+			<real>830</real>
+			<key>ypos</key>
+			<real>255</real>
+		</dict>
+		<key>D770F16A-68BA-44BF-ADA9-F6E46D21FDDA</key>
+		<dict>
+			<key>xpos</key>
+			<real>275</real>
+			<key>ypos</key>
+			<real>525</real>
+		</dict>
+		<key>DB4A9F70-DABC-476B-8D1C-348DA7F3121D</key>
+		<dict>
+			<key>xpos</key>
+			<real>275</real>
+			<key>ypos</key>
+			<real>325</real>
+		</dict>
+		<key>DCDC116B-7FA7-4CBE-BAB1-7681AB7980C5</key>
+		<dict>
+			<key>xpos</key>
+			<real>915</real>
+			<key>ypos</key>
+			<real>255</real>
+		</dict>
+		<key>F63B2357-2FB8-4AAB-8AFA-ADE2D13DDC30</key>
+		<dict>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>2165</real>
+		</dict>
+		<key>F719B8B5-6AC3-4502-8C2E-255EF81B311B</key>
+		<dict>
+			<key>xpos</key>
+			<real>460</real>
+			<key>ypos</key>
+			<real>2300</real>
+		</dict>
+		<key>F8243C51-48E8-4A30-A784-FAAE5BE88D19</key>
+		<dict>
+			<key>xpos</key>
+			<real>265</real>
+			<key>ypos</key>
+			<real>1460</real>
+		</dict>
+		<key>F8731914-A043-4961-943B-E936F7E7ECE6</key>
+		<dict>
+			<key>xpos</key>
+			<real>840</real>
+			<key>ypos</key>
+			<real>55</real>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.1.0</string>
+	<key>webaddress</key>
+	<string>https://anybox.app</string>
+</dict>
+</plist>
