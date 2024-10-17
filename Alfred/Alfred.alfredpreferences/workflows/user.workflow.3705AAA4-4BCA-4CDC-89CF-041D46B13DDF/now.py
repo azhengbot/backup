@@ -15,13 +15,8 @@ def main():
     wf = Workflow()
     # time_stamp = 1654589922095
 
-    time_stamp = int(time_stamp)
-    if len(str(time_stamp)) == 13:
-        time_stamp = time_stamp / 1000
-
-    t = datetime.fromtimestamp(time_stamp)
-    time_str = datetime.strftime(t, "%Y-%m-%d %H:%M:%S")
-    kwargs = {"title": time_str, "subtitle": "", "valid": True, "arg": time_str}
+    ts = int(datetime.now().timestamp())
+    kwargs = {"title": ts, "subtitle": "", "valid": True, "arg": ts}
     wf.add_item(**kwargs)
     wf.send_feedback()
 

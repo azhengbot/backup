@@ -3,18 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.azheng.time_format</string>
+	<string>Time Format</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
-		<key>51185F25-CF15-4A33-8B40-BD70C6DAD2C5</key>
-		<array/>
-		<key>B0499325-3858-4C53-A96E-3231D457FFB3</key>
+		<key>156D8833-4170-451B-857D-F931E725D2CC</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>51185F25-CF15-4A33-8B40-BD70C6DAD2C5</string>
+				<string>609D1B69-A8ED-4ACB-A5E9-B8A2C1F6F995</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -27,11 +25,11 @@
 	<key>createdby</key>
 	<string>azheng</string>
 	<key>description</key>
-	<string>Time Format</string>
+	<string></string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Time Format</string>
+	<string>now</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -46,11 +44,11 @@
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>escaping</key>
-				<integer>68</integer>
+				<integer>102</integer>
 				<key>keyword</key>
-				<string>tf</string>
+				<string>now</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -60,26 +58,26 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string>正在转化...</string>
+				<string></string>
 				<key>script</key>
-				<string>/Users/admin/.pyenv/versions/py312/bin/python time_format.py "{query}"</string>
+				<string>/Users/admin/.pyenv/versions/py312/bin/python now.py "{query}"</string>
 				<key>scriptargtype</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>time format</string>
+				<string></string>
 				<key>title</key>
-				<string>time format</string>
+				<string></string>
 				<key>type</key>
 				<integer>5</integer>
 				<key>withspace</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>B0499325-3858-4C53-A96E-3231D457FFB3</string>
+			<string>156D8833-4170-451B-857D-F931E725D2CC</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -98,7 +96,7 @@
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
-			<string>51185F25-CF15-4A33-8B40-BD70C6DAD2C5</string>
+			<string>609D1B69-A8ED-4ACB-A5E9-B8A2C1F6F995</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -107,19 +105,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>51185F25-CF15-4A33-8B40-BD70C6DAD2C5</key>
+		<key>156D8833-4170-451B-857D-F931E725D2CC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>505</integer>
+			<integer>215</integer>
 			<key>ypos</key>
-			<integer>250</integer>
+			<integer>120</integer>
 		</dict>
-		<key>B0499325-3858-4C53-A96E-3231D457FFB3</key>
+		<key>609D1B69-A8ED-4ACB-A5E9-B8A2C1F6F995</key>
 		<dict>
 			<key>xpos</key>
-			<integer>190</integer>
+			<integer>470</integer>
 			<key>ypos</key>
-			<integer>115</integer>
+			<integer>190</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>

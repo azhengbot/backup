@@ -406,6 +406,27 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>toggle anydock</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Toggle Anydock</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8844397A-C365-41DF-9AC7-3E747F6949C2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -711,27 +732,6 @@ sys.stdout.write(json.dumps(result))</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>toggle anydock</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Toggle Anydock</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>8844397A-C365-41DF-9AC7-3E747F6949C2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -784,6 +784,27 @@ urllib.request.urlopen(req)</string>
 			<string>3F56AA06-184B-40AD-9CA7-6B9AD3CAB4FD</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>toggle link detection</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Toggle Link Detection</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>66FEC9E5-8DE3-4FC7-B7AB-4309DD9F9BE6</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1128,27 +1149,6 @@ sys.stdout.write(json.dumps(result))</string>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>77EF951B-D4BA-471D-A40C-A8C239E3B1A9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>toggle link detection</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Toggle Link Detection</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>66FEC9E5-8DE3-4FC7-B7AB-4309DD9F9BE6</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -2341,9 +2341,9 @@ Go to Anybox › Settings › General to copy API key.</string>
 			<key>note</key>
 			<string>Type your keyword into Alfred to trigger this workflow.</string>
 			<key>xpos</key>
-			<real>30</real>
+			<integer>50</integer>
 			<key>ypos</key>
-			<real>315</real>
+			<integer>210</integer>
 		</dict>
 		<key>6B1A7DC1-2948-40E3-A16A-4704C1C46926</key>
 		<dict>
@@ -2396,9 +2396,9 @@ Go to Anybox › Settings › General to copy API key.</string>
 			<key>note</key>
 			<string>Type your keyword into Alfred to trigger this workflow.</string>
 			<key>xpos</key>
-			<real>30</real>
+			<integer>90</integer>
 			<key>ypos</key>
-			<real>130</real>
+			<integer>10</integer>
 		</dict>
 		<key>8B8767DF-7544-496A-B62B-01145E00EB53</key>
 		<dict>
